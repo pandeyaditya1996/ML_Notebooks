@@ -1,1 +1,1 @@
-# ML_Notebooks
+Repository to store multiple ML algorithm code notebooks
